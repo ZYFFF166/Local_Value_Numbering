@@ -1,0 +1,4 @@
+/Users/zhaoyifan/Desktop/HelloPass-LLVM-master/Pass/build/CMakeFiles/rebuild_cache.dir
+/Users/zhaoyifan/Desktop/HelloPass-LLVM-master/Pass/build/CMakeFiles/edit_cache.dir
+/Users/zhaoyifan/Desktop/HelloPass-LLVM-master/Pass/build/CMakeFiles/LLVMValueNumberingPass.dir
+/Users/zhaoyifan/Desktop/HelloPass-LLVM-master/Pass/build/CMakeFiles/intrinsics_gen.dir
